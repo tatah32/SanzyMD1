@@ -15,7 +15,7 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'owner - sanzy'
+global.ownername = 'owner - Tata'
 global.owner = ['6289668014332']
 global.packname = 'Tata'
 global.author = 'OpenSea'
