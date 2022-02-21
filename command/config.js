@@ -10,7 +10,7 @@ zeroyt7: 'https://zeroyt7-api.xyz',
 //━━━━━━━━━━━━━━━[ APIKEY WEBSITE API ]━━━━━━━━━━━━━━━━━//
 
 global.APIKeys = {
-'https://zeroyt7-api.xyz': 'gysnzbsja',
+'https://zeroyt7-api.xyz': 'FMc9wcPG',
 }
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
