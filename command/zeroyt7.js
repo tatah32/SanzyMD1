@@ -774,7 +774,7 @@ case 'ytmp44': {
 if (!text) throw 'Masukkan Link Youtube Nya'
 m.reply(mess.wait)
 webapi = await fetchJson(api('zeroyt7', '/ytMp4', { url: text }, 'apikey'))
-zeroyt7.sendMessage(m.chat, { video: { url: webapi.result.result }, caption: `𝑫𝒐𝒏𝒆.. 𝑫𝒐𝒏'𝒕 𝒇𝒐𝒓𝒈𝒆𝒕 𝒕𝒐 𝒔𝒖𝒃𝒔𝒄𝒓𝒊𝒃𝒆 𝒎𝒚 𝒚𝒐𝒖𝒕𝒖𝒃𝒆 : 𝒔𝒂𝒏𝒛𝒚 𝒚𝒕`}, { quoted: ftroli })
+zeroyt7.sendMessage(m.chat, { video: { url: webapi.result.result }, caption: `𝑫𝒐𝒏𝒆.. Dont Spam Fitur`}, { quoted: ftroli })
 }
 break
 case 'ytmp3': {
