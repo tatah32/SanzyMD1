@@ -313,7 +313,7 @@ url: 'https://sanzykey.herokuapp.com/api'
 }, {
 urlButton: {
 displayText: '𝒀𝒐𝒖𝒕𝒖𝒃𝒆 𝑶𝒘𝒏𝒆𝒓',
-url: 'https://youtube.com/c/sanzyyt/'
+url: 'https://youtube.com/'
 }
 }, {
 quickReplyButton: {
@@ -746,12 +746,12 @@ hydratedFooterText: `𝑺𝒂𝒏𝒛𝒚`,
 hydratedButtons: [{
 urlButton: {
 displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-url: `https://www.instagram.com/2kangsoul_/`
+url: `https://www.instagram.com/`
 }
 }, {
 urlButton: {
 displayText: '𝑴𝒚 𝑭𝒂𝒄𝒆𝒃𝒐𝒐𝒌',
-url: 'https://www.facebook.com/Alyssaexct'
+url: 'https://www.facebook.com/'
 }
 }, {
 quickReplyButton: {
@@ -800,7 +800,7 @@ url: `https://sanzykey.herokuapp.com/api`
 }, {
 urlButton: {
 displayText: '𝒀𝒐𝒖𝒕𝒖𝒃𝒆 𝑶𝒘𝒏𝒆𝒓',
-url: 'https://youtube.com/c/sanzyyt'
+url: 'https://youtube.com/'
 }
 }, {
 quickReplyButton: {
@@ -1015,7 +1015,7 @@ url: `https://sanzykey.herokuapp.com/api`
 }, {
 urlButton: {
 displayText: '𝒀𝒐𝒖𝒕𝒖𝒃𝒆 𝑶𝒘𝒏𝒆𝒓',
-url: 'https://youtube.com/c/sanzyyt'
+url: 'https://youtube.com/'
 }
 }, {
 quickReplyButton: {
@@ -1133,7 +1133,7 @@ url: `https://sanzykey.herokuapp.com/api`
 }, {
 urlButton: {
 displayText: '𝒀𝒐𝒖𝒕𝒖𝒃𝒆 𝑶𝒘𝒏𝒆𝒓',
-url: 'https://youtube.com/c/sanzyyt'
+url: 'https://youtube.com/'
 }
 }, {
 quickReplyButton: {
